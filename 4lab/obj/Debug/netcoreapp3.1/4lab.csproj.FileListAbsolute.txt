@@ -1,0 +1,13 @@
+D:\projects\OOP\4lab\4lab\bin\Debug\netcoreapp3.1\4lab.exe
+D:\projects\OOP\4lab\4lab\bin\Debug\netcoreapp3.1\4lab.deps.json
+D:\projects\OOP\4lab\4lab\bin\Debug\netcoreapp3.1\4lab.runtimeconfig.json
+D:\projects\OOP\4lab\4lab\bin\Debug\netcoreapp3.1\4lab.runtimeconfig.dev.json
+D:\projects\OOP\4lab\4lab\bin\Debug\netcoreapp3.1\4lab.dll
+D:\projects\OOP\4lab\4lab\bin\Debug\netcoreapp3.1\4lab.pdb
+D:\projects\OOP\4lab\4lab\obj\Debug\netcoreapp3.1\4lab.csprojAssemblyReference.cache
+D:\projects\OOP\4lab\4lab\obj\Debug\netcoreapp3.1\4lab.AssemblyInfoInputs.cache
+D:\projects\OOP\4lab\4lab\obj\Debug\netcoreapp3.1\4lab.AssemblyInfo.cs
+D:\projects\OOP\4lab\4lab\obj\Debug\netcoreapp3.1\4lab.csproj.CoreCompileInputs.cache
+D:\projects\OOP\4lab\4lab\obj\Debug\netcoreapp3.1\4lab.dll
+D:\projects\OOP\4lab\4lab\obj\Debug\netcoreapp3.1\4lab.pdb
+D:\projects\OOP\4lab\4lab\obj\Debug\netcoreapp3.1\4lab.genruntimeconfig.cache
